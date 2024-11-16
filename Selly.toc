@@ -1,0 +1,12 @@
+# Classic Era, Classic, Retail
+## Interface: 11504, 40400, 110005
+## Title: Selly
+## Author: Selly
+## Notes: Get notifications about looted items.
+## Version: 1.0.0
+## SavedVariables: SellyGlobalDB
+## SavedVariablesPerCharacter: SellyLocalDB
+## IconTexture: Interface\AddOns\Selly\Assets\Images\Logo
+
+Core.lua
+Index.xml
