@@ -116,6 +116,4 @@ function Addon.Events1:ADDON_LOADED(WhichAddonName)
 
     Addon.Initialize:Init()
     Addon.Events1:UnregisterEvent("ADDON_LOADED")
-
-    -- Lulu
 end
