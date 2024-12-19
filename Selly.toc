@@ -1,5 +1,5 @@
 # Classic Era, Classic, Retail
-## Interface: 11505, 40400, 110005
+## Interface: 11505, 40400, 110007
 ## Title: Selly
 ## Author: Selly
 ## Notes: Get notifications about looted items.
