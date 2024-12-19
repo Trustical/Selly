@@ -3,7 +3,7 @@
 ## Title: Selly
 ## Author: Selly
 ## Notes: Get notifications about looted items.
-## Version: 1.0.2
+## Version: 1.0.3
 ## SavedVariables: SellyGlobalDB
 ## SavedVariablesPerCharacter: SellyLocalDB
 ## IconTexture: Interface\AddOns\Selly\Assets\Images\Logo
